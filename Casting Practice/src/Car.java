@@ -10,5 +10,6 @@ public class Car extends Vehicle
 	public void honkHorn()
 		{
 		System.out.println("honk honk");
+		System.out.println();
 		}
 	}
